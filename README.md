@@ -3,7 +3,7 @@
 ## Melissa Elvia Salazar Carrillo
 ## ITC
 
-![alt text](image.jpg)
+![alt text](changuito.jpg)
 - First item
 - Second item
 - Third item
