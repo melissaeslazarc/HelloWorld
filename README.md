@@ -14,7 +14,8 @@
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-	```
+
+```
 #include "Series.hpp"
 
 Series::Series(){
@@ -48,7 +49,6 @@ void Series::leerArchivo( ){
 void Series::reporteFrecuenciaYPromedioSeries(){
 
 }
-
 
 ```
 
